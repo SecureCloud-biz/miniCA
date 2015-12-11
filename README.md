@@ -1,3 +1,6 @@
+**Note** This project is somewhat obsoleted by letsencrypt.org. I will no longer maintain it.
+
+
 # miniCA – an easy to use mini CA
 
 This project contains all you need to run a simple CA. 
